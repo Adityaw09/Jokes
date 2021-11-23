@@ -1,34 +1,4 @@
-/* .container{
-    border-radius: 25px;
-    margin: 5px;
-    padding: 15px;
-    box-shadow: 0 10px 100px -10px rgb(red, green, blue);
-    border: 1px solid blue;
-    overflow: hidden;
-  }
-h1{
-    text-align: center;
-}  
 
-
-
-
-
-#box{
-    border: 2px solid red;
-    display: flex;
-    height: 300px;
-    width: 500px;
-    align-items: center;
-    justify-content: center;
-}
-.joke{
-    font-size: 1.5 rem;
-  background-color: black;
-  color: antiquewhite;
-  cursor: pointer;
-  padding: 14px;
-} */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap");
 *{
     box-sizing: border-box;
